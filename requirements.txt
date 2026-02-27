@@ -1,0 +1,10 @@
+biopython
+pandas
+spacy
+scispacy
+transformers
+torch
+psycopg2-binary
+fastapi
+uvicorn
+streamlit
