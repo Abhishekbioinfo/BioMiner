@@ -1,10 +1,16 @@
-biopython
-pandas
-spacy
-scispacy
-transformers
+# Bioinformatics & API
+biopython==1.81
+
+# Deep Learning & NLP
 torch
+transformers
+spacy==3.5.0
+scispacy==0.5.1
+pandas
+
+# Database
 psycopg2-binary
-fastapi
-uvicorn
-streamlit
+
+# Utilities
+tqdm
+requests
