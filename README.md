@@ -55,6 +55,10 @@ cp config.py.example config.py
 Run the pipeline using your dedicated GPU:
 
 ```Bash
+python3 pipeline.py
+
+or
+
 CUDA_VISIBLE_DEVICES=0 python3 pipeline.py
 ```
 
